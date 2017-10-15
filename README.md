@@ -8,7 +8,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![](https://img.shields.io/badge/made%20by-everyone-blue.svg?style=flat-square)](https://github.com/illacceptanything)
 [![](https://img.shields.io/badge/project-everything-blue.svg?style=flat-square)](https://github.com/illacceptanything/illacceptanything)
-[![standard-readme not compliant](https://img.shields.io/badge/standard--readme-NOPE-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![standard-readme not compliant](https://img.shields.io/badge/readme%20style-not-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-not-readme)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -20,13 +19,13 @@
     ██║    ██║╚██╔╝██║██║██║   ██║██╔══██║   ██║   
     ██║    ██║ ╚═╝ ██║██║╚██████╔╝██║  ██║   ██║   
     ╚═╝    ╚═╝     ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   
-    
+
     ╚█████╗ ╚██████╗ ██████╗███████╗██████╗ ████████╗
     ██╔══██╗██╔════╝██╔════╝██╔════╝██╔══██╗╚══██╔══╝
     ███████║██║     ██║     █████╗  ██████╔╝   ██║
     ██╔══██║██║     ██║     ██╔══╝  ██╔═══╝    ██║
     ██║  ██║╚██████╗╚██████╗███████╗██║        ██║
-    
+
     ╚█████╗╝███╗═══██╗██╗══╝██╗████████╗██╗  ██╗██╗███╗   ██╗ ██████╗
     ██╔══██╗████╗  ██║╚██╗ ██╔╝╚══██╔══╝██║  ██║██║████╗  ██║██╔════╝
     ███████║██╔██╗ ██║ ╚████╔╝    ██║   ███████║██║██╔██╗ ██║██║  ███╗
@@ -95,7 +94,7 @@ I'm not Steve but anyways, HI!
 
 ```
  __                 
-/  \        _______________ 
+/  \        _______________
 |  |       /               \
 @  @       | It looks      |
 || ||      | like you      |
@@ -104,15 +103,15 @@ I'm not Steve but anyways, HI!
 \___/      \_______________/
 ```
 
-媽我在這～～～ 
+媽我在這～～～
 Repo so big, takes forever to download
 
 I'm in love with this repo. - Dhruv KB ;)
 
 █░░█ █░░█ █▀▄▀█ █▀▀█ █▀▀▄ █▀▀█ ▀█▀ █▀▀▄ █▀▀ 　
-█▀▀█ █░░█ █░▀░█ █▄▄█ █░░█ █░░█ ▒█░ █░░█ ▀▀█ 　 
+█▀▀█ █░░█ █░▀░█ █▄▄█ █░░█ █░░█ ▒█░ █░░█ ▀▀█ 　
 ▀░░▀ ░▀▀▀ ▀░░░▀ ▀░░▀ ▀░░▀ ▀▀▀▀ ▄█▄ ▀▀▀░ ▀▀▀ 　
-                                    -Ritwick 
+                                    -Ritwick
 
 Really good for someone who want to increase contribution count. :D
 
@@ -167,5 +166,20 @@ Really good for someone who want to increase contribution count. :D
 
 
 WATFACE WAT WAT WAT
+Hello world
 
 hi
+
+==============
+⁣|😐😐😐😐😐😐😐|
+|😐😐😐😐😐😐😐|
+|😐😐😐😂⁣😐😐😐|
+|😐😐😐😐😐😐😐|
+|😐😐😐😐😐😐😐|
+==============
+
+<figure>
+  <img src='media/mrbean_anythinggoes.jpg' alt='Photograph of an elation' />
+  <br />
+  <figcaption>Anything goes elation.</figcaption>
+  </figure>
